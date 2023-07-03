@@ -10,6 +10,7 @@ public class Mail  extends Baseclass{
 		public void compose()
 		{
 		Reporter.log("hiiiiii");
+			System.out.println("Hi");
 	}
 
 }
